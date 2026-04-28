@@ -27,7 +27,7 @@ class NormalTalk implements Talkable {
 
     @Override
     public void talk() {
-        System.out.println("Robot speaks normally");
+        System.out.println("Robot speak normally");
     }
 }
 
